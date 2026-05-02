@@ -1,5 +1,5 @@
-
-if (var %random.whole/1 100% >= 60) {
+var casino_random set %random.int/1 11%
+if (var casino_random < 5) {
 	var ducats inc 10000
 		chat "won"
 } else {
