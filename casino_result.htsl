@@ -1,0 +1,8 @@
+
+if (var %random.whole/1 100% >= 60) {
+	var ducats inc 10000
+		chat "won"
+} else {
+	var ducats dec 10000
+		chat "lost"
+} 
