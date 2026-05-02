@@ -1,0 +1,5 @@
+if (var ducats >= 100000) {
+	function casino_100k false
+} else {
+	chat "&cYou don't have enough ducats.."
+}
