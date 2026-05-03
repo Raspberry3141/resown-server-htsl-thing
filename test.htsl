@@ -1,8 +1,6 @@
-
-if (var casino_random == 2 && var ducats >=10) {
-	chat "even"
-	chat casino_random
+if (var casino_random == %var.player/casino_random%) {
+	chat "eq"
 } else {
-	chat "odd"
-	chat casino_random
+	chat "uneq"
 }
+
