@@ -1,0 +1,106 @@
+sound "Level Up" 2.0 0.1
+
+if (var casino_random == 1 0 && roulette_color == 1 0) {
+	title "" "" 0 5 1
+}
+
+if (var casino_random == 2 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 3 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 4 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 5 && roulette_color == 1 0) {
+}
+
+if (var casino_random = && roulette_color == 1 0= 6) {
+}
+
+if (var casino_random == 7 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 8 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 9 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 10 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 11 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 12 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 13 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 14 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 15 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 16 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 17 && roulette_color == 1 0) {
+}
+
+
+if (var casino_random == 1 0 && roulette_color == 1 0) {
+	title "" "" 0 5 1
+}
+
+if (var casino_random == 2 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 3 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 4 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 5 && roulette_color == 1 0) {
+}
+
+if (var casino_random = && roulette_color == 1 0= 6) {
+}
+
+if (var casino_random == 7 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 8 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 9 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 10 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 11 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 12 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 13 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 14 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 15 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 16 && roulette_color == 1 0) {
+}
+
+if (var casino_random == 17 && roulette_color == 1 0) {
+}

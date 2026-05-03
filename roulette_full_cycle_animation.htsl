@@ -1,0 +1,105 @@
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8&r&n●&r&8_____________________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_&r&n●&r&8____________________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8__&r&n●&r&8___________________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8___&r&n●&r&8__________________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8____&r&n●&r&8_________________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+
+if () {
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_____&r&n●&r&8________________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8______&r&n●&r&8_______________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_______&r&n●&r&8______________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8________&r&n●&r&8_____________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_________&r&n●&r&8____________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+}
+
+if () {
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8__________&r&n●&r&8___________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8___________&r&n●&r&8__________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8____________&r&n●&r&8_________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_____________&r&n●&r&8________________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8______________&r&n●&r&8_______________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+}
+
+if () {
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_______________&r&n●&r&8______________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8________________&r&n●&r&8_____________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_________________&r&n●&r&8____________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8__________________&r&n●&r&8___________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8___________________&r&n●&r&8__________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+}
+
+if () {
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8____________________&r&n●&r&8_________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_____________________&r&n●&r&8________" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8______________________&r&n●&r&8_______" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_______________________&r&n●&r&8______" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8________________________&r&n●&r&8_____" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+}
+
+if () {
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_________________________&r&n●&r&8____" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8__________________________&r&n●&r&8___" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8___________________________&r&n●&r&8__" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8____________________________&r&n●&r&8_" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+title "&0■&4■&0■&4■&0■&4■&0■&2■&0■&4■&0■&4■&0■&4■&0■" "&8_____________________________&r&n●&r&8" 0 5 0
+sound "Entity Experience Orb Pickup"
+pause 1
+}
