@@ -1,0 +1,6 @@
+if (var casino_predict == "") {
+	caht "&cLock In On a Bet First!"
+	displayMenu "Roulette Lock In"
+} else {
+	function roulette_start false
+}

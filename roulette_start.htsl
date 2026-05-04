@@ -1,0 +1,15 @@
+if (var ducats >= %var.player/casino_bet%) {
+	var casino_random set %random.int/1 18%
+	function roullete_animation_full false
+	pause 17
+	function roullete_animation_full false
+	pause 17
+	function roullete_animation_full false
+	pause 17
+	function roullete_animation_full false
+	pause 17
+	function casino_number_to_color false 
+	function roulette_display_result false
+} else {
+	chat "&4 Not Enough Ducats..."
+}

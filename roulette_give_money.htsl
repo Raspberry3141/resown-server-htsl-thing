@@ -1,0 +1,13 @@
+if (var casino_color == "&2&l&nGreen") {
+	var casino_amount == casino_bet
+	var casino_amount * 16
+	var ducats += %var.player/casino_amount%
+	vat casino_amount unset
+} 
+
+if (var casino_color == "&4&l&nRed" 0 || var casino_color == "&0&l&nBlack" 0 ) {
+	var casino_amount set casino_bet
+	var casino_amount =* 2
+	var ducats inc %var.player/casino_amount%
+	vat casino_amount unset
+}

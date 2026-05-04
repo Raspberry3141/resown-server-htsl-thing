@@ -1,0 +1,3 @@
+var casino_bet = 1000
+sound "Entity Experience Orb Pickup"
+chat "&bBetting 1k..."
