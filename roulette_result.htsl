@@ -1,4 +1,10 @@
-sound "Level Up" 2.0 0.1
-
-if (var casino_random == %var.player/casino_predict%) {
+if (var casino_color == %var.player/casino_predict%) {
+	title   "&n&e&o&l+⛁⛁⛁⛁⛁⛁⛁⛁⛁⛁⛁" "&8You guessed %var.player/casino_predict%&r&8 and Landed on %var.player/casino_color%" 0 3 1
+	sound "Level Up" 2.0 0.1
+	function roulette_give_money false
+} else {
+	title   "&4&n&o&l-⛁⛁⛁⛁⛁⛁⛁⛁⛁⛁⛁" "&8You guessed %var.player/casino_predict%&r&8 and Landed on %var.player/casino_color%" 0 3 1
+	sound "Entity Ghast Death" 2.0 1.0
+	var casino_amount = %var.player/casino_bet% * 2
+	var ducats -= %var.player/casino_amount%
 }

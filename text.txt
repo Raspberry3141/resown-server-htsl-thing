@@ -1,1 +1,9 @@
 &8You guessed &2&l&nGreen&r&8 and Landed on &4&l&nRed&r&8...
+
+&e&n&lThe Ultimate Roulette
+
+&2&n&lDouble&r &8or &4&n&lLose&r&8 your Ducats...
+
+&8-&2&n&lGreen&r&8: &bDucats&r x 17
+&8-&4&n&lRed&r&8: &bDucats&r x 2
+&8-&0&n&lBlack&r&8: &bDucats&r x 2

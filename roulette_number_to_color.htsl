@@ -1,51 +1,51 @@
 if (var casino_random == 1) {
-	var casino_color = 3
+	var casino_color = "&4&l&nRed"
 }
 if (var casino_random == 2) {
-	var casino_color = 2
+	var casino_color = "&0&l&nBlack"
 }
 if (var casino_random == 3) {
-	var casino_color = 3
+	var casino_color = "&4&l&nRed"
 }
 if (var casino_random == 4) {
-	var casino_color = 2
+	var casino_color = "&0&l&nBlack"
 }
 if (var casino_random == 5) {
-	var casino_color = 3
+	var casino_color = "&4&l&nRed"
 }
 if (var casino_random == 6) {
-	var casino_color = 2
+	var casino_color = "&0&l&nBlack"
 }
 if (var casino_random == 7) {
-	var casino_color = 3
+	var casino_color = "&4&l&nRed"
 }
 if (var casino_random == 8) {
-	var casino_color = 2
+	var casino_color = "&0&l&nBlack"
 }
 if (var casino_random == 9) {
-	var casino_color = 1
+	var casino_color = "&4&l&nRed"
 }
 if (var casino_random == 10) {
-	var casino_color = 2
+	var casino_color = "&0&l&nBlack"
 }
 if (var casino_random == 11) {
-	var casino_color = 3
+	var casino_color = "&2&l&nGreen"
 }
 if (var casino_random == 12) {
-	var casino_color = 2
+	var casino_color = "&0&l&nBlack"
 }
 if (var casino_random == 13) {
-	var casino_color = 3
+	var casino_color = "&4&l&nRed"
 }
 if (var casino_random == 14) {
-	var casino_color = 2
+	var casino_color = "&0&l&nBlack"
 }
 if (var casino_random == 15) {
-	var casino_color = 3
+	var casino_color = "&4&l&nRed"
 }
 if (var casino_random == 16) {
-	var casino_color = 2
+	var casino_color = "&0&l&nBlack"
 }
 if (var casino_random == 17) {
-	var casino_color = 3
+	var casino_color = "&4&l&nRed"
 }
